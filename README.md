@@ -8,7 +8,8 @@ The APC (Arbitrary Precision Calculator) handles numbers far larger than the lim
 Each number is stored as a **doubly linked list**, where each node contains a single digit.  
 This enables precise computation of huge values using manual arithmetic logic.
 
-The program works through a **CLI (Command Line Interface)** in the format: ./a.out number1 operator number2
+The program works through a **CLI (Command Line Interface)** in the format: 
+./a.out number1 operator number2
 
 Operators supported:
 - `+`  Addition  
